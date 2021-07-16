@@ -15,7 +15,10 @@
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJS" width="40" height="40" style="max-width:100%;"></img>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeleandroxavier)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeleandroxavier&layout=compact)](https://github.com/zeleandroxavier/github-readme-stats)
+
+
+
 
 
 <!--
