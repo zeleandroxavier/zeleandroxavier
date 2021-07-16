@@ -1,7 +1,9 @@
 ### Hello 👋, my name is José Leandro Xavier
-#### Programador
 
-### Atualmente trabalho como Coordenador de suporte de sistemas Senior na Prisma informatica. Sou de Cascavel - PR.
+### I currently work as Senior Systems Support Coordinator at Prisma informatica.
+
+### Do you want to know more about me?
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zeleandroxavier/)  
 
 ## My Skills:
 
