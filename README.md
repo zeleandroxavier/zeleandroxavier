@@ -1,15 +1,8 @@
 ### Hello 👋, my name is José Leandro Xavier
 
-### I currently work as Senior Systems Support Coordinator at Prisma informatica.
-
 ### 📬 My contact
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zeleandroxavier/) 
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' alt='github' height='40'>](https://www.linkedin.com/in/zeleandroxavier/)
-
-
-
-
-Site: em breve<br>
 
 ## My Skills:
 
